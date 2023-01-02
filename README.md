@@ -1,9 +1,7 @@
 ### Hi there 👋
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a><br>
-<img src="https://img.shields.io/github/license/sejun/98"/>
+
 <!--
 **sejun98/sejun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
