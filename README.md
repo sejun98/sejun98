@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-68729E?style=flat-square&logo=Python&logoColor=white"/></a><br>
+<img src="https://img.shields.io/badge/Python-4D59BF?style=flat-square&logo=Python&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a><br>
 
 <!--
