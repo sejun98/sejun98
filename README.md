@@ -1,9 +1,12 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/Python-4D59BF?style=flat-square&logo=Python&logoColor=white"/></a><br>  
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a><br>  
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a><br>
-<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a><br>
+
+### 프로젝트에서 사용 해본 기술들
+<img src="https://img.shields.io/badge/Python-4D59BF?style=flat-square&logo=Python&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/SpringBoot-3766AB?style=flat-square&logo=Springboot&logoColor=white"/></a>  
 
 <!--
 **sejun98/sejun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
